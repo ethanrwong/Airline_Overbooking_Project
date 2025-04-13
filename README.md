@@ -1,4 +1,4 @@
-# Airline Overbooking Project
+# Airline Overbooking Project ✈️
 
 Contributors: Ethan Wong, Advaith Shankar, Dhruv Arora, Areeba Shah
 
